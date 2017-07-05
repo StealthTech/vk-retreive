@@ -1,0 +1,5 @@
+# Virtual environment
+env/
+
+# .idea meta files
+.idea/
